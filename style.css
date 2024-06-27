@@ -1,0 +1,23 @@
+body {
+    position: relative;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+img {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 150px;
+}
+
+h1,
+h2 {
+    color: #333;
+}
+
+p,
+ul {
+    line-height: 1.6;
+}
